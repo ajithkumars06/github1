@@ -1,2 +1,0 @@
-sample file for test my self. file name test3.txtgit.
-i really like git.
